@@ -1,12 +1,12 @@
 Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
 
-# Muhammad Fauzan
+# Naufal Ardhani
 
-Hi, I'm Muhammad Fauzan 👨 (he/him)—a freelance and remote web developer at Home. I live in West Java, Indonesia and am an Malay native. 🙌 I'm a Fullstack Web Developer with PHP and Javascript as Backend , Vue as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
+Hi, I'm Naufal Ardhani 👨 (he/him)—a freelance and remote web developer at Home. I live in West Java, Indonesia and am an Malay native. 🙌 I'm a Fullstack Web Developer with PHP and Javascript as Backend , Vue as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fauzan121002&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true)
 
 ## How I work
 
