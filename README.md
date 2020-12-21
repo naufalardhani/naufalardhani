@@ -6,4 +6,4 @@ Hi, I'm Naufal Ardhani 👨 (he/him)—a Cyber Security Enthusiast & Front End P
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true
+![github stats](https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true)
