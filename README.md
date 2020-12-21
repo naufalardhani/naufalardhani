@@ -7,5 +7,7 @@ Hi, I'm Naufal Ardhani 👨 (he/him)—a Cyber Security Enthusiast & Front End P
 ## Github Performance Overall
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true)
-
+<a href="https://github.com/hafet17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafet17&theme=algolia&show_icons=true&layout=compact&langs_count=8" />
+</a>
 
