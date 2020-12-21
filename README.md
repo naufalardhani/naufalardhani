@@ -8,16 +8,4 @@ Hi, I'm Naufal Ardhani 👨 (he/him)—a Cyber Security Enthusiast & Front End P
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true)
 
-## How I work
 
-My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
-
-## Current activity
-
-- 💻 I'm currently developing <a href="https://github.com/fauzan121002/denovel/tree/development">denovel</a> and some freelance projects.
-- 📖 I’m currently learning deno and golang;
-- 🤔 My interests are with front-end & backend then i decide to do fullstack;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via developerfauzan@asraja.com to reach me.
-- 📝 See my <a href="https://www.linkedin.com/in/developerfauzan/">linked.in</a> to get more info.
