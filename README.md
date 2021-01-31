@@ -1,9 +1,42 @@
-Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
+<pre>
 
-# Naufal Ardhani
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
 
-Hi, I'm Naufal Ardhani 👨 (he/him)—a Cyber Security Enthusiast & Front End Programmer at Devover. I live in DKI Jakarta, Indonesia and am an Malay native. 🙌 I'm a Fullstack Web Developer with PHP and Javascript as Backend , Vue as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Cyber Security Enthusiast
+├─▣ Front End Developer
+├─▣ Blogger
+├─▣ <a href="https://naufalardhani.com/">Naufal Ardhani's Blog</a>
+├─▣ I am mostly available at <a href="https://discord.gg/MtKK7U4">The White Circle</a>
+│
+└───────────────────────────────▰▰▰
 
-## Github Performance Overall
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/owpalll">Twitter</a>
+├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
+├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
+├─◈ <a href="https://www.linkedin.com/in/naufalardhani">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
 
-![github stats](https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true)
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
+├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
+├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
