@@ -26,19 +26,17 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://twitter.com/owpalll">Twitter</a>
-├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
-├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
+├─◈ <a href="https://instagram.com/naufalardhani_">Instagram</a>
 ├─◈ <a href="https://www.linkedin.com/in/naufalardhani">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
-├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
-├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
-├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
-├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+├─◈ <a href="https://github.com/naufalardhani/Instagram-Tools">Instagram Tools (CLI)</a>
+├─◈ <a href="https://github.com/naufalardhani/remote-shell-backdoor">Remote Backdoor (CLI)</a>
+├─◈ <a href="https://github.com/naufalardhani/cpanel-pass-reset">Cpanel Reset Password (Web)</a>
+├─◈ <a href="https://github.com/naufalardhani/LIN3-TCRR/blob/master/falbot.py">FalBot - Line selfbot (last update 2017)</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
