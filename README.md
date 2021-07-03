@@ -36,7 +36,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/naufalardhani/domhttpx">domhttpx - About domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.</a>
+├─◈ <a href="https://github.com/naufalardhani/domhttpx">domhttpx</a> - About domhttpx is a google search engine dorker with HTTP toolkit built with python, can make it easier for you to find many URLs/IPs at once with fast time.
 ├─◈ <a href="https://github.com/naufalardhani/Instagram-Tools">Instagram Tools (CLI)</a>
 ├─◈ <a href="https://github.com/naufalardhani/remote-shell-backdoor">Remote Backdoor (CLI)</a>
 ├─◈ <a href="https://github.com/naufalardhani/cpanel-pass-reset">Cpanel Reset Password (Web)</a>
