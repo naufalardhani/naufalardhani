@@ -20,10 +20,9 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Cyber Security Enthusiast
-├─▣ Front End Developer
+├─▣ Python Newbie
 ├─▣ Blogger
 ├─▣ <a href="https://naufalardhani.com/">Naufal Ardhani's Blog</a>
-├─▣ I am mostly available at <a href="https://discord.gg/MtKK7U4">The White Circle</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -38,8 +37,6 @@
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/naufalardhani/domhttpx">domhttpx</a>
-├─◈ <a href="https://github.com/naufalardhani/Instagram-Tools">Instagram Tools (CLI)</a>
-├─◈ <a href="https://github.com/naufalardhani/remote-shell-backdoor">Remote Backdoor (CLI)</a>
 ├─◈ <a href="https://github.com/naufalardhani/cpanel-pass-reset">Cpanel Reset Password (Web)</a>
 ├─◈ <a href="https://github.com/naufalardhani/LIN3-TCRR/blob/master/falbot.py">FalBot - Line selfbot (last update 2017)</a>
 │
