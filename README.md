@@ -16,23 +16,6 @@
     </a>
   <br>
 </div>
-                                                                                           
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Cyber Security Enthusiast
-├─▣ Python Newbie
-├─▣ Blogger
-├─▣ <a href="https://naufalardhani.com/">Naufal Ardhani's Blog</a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://twitter.com/owpalll">Twitter</a>
-├─◈ <a href="https://instagram.com/naufalardhani_">Instagram</a>
-├─◈ <a href="https://www.linkedin.com/in/naufalardhani">LinkedIn</a>
-│
-└───────────────────────────────▰▰▰
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
