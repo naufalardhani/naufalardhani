@@ -7,7 +7,7 @@
 ![Flask](https://img.shields.io/badge/Flask-Beginner-blue)
 ![Django](https://img.shields.io/badge/Django-Intermediate-red)
 
-Cybersecurity Analyst & Web Developer in Jakarta, Writing article about Hacking & Programming in [Geek Boiz](https://www.geekboiz.com/ "Geek Boiz").
+Web Security Analyst & Web Developer in Jakarta, Writing article about Hacking & Programming in [Geek Boiz](https://www.geekboiz.com/ "Geek Boiz").
 
 - 🔭 I’m currently studying **Science** at Madrasah
 - 🌱 I’m currently learning **Web Security**, **Boostrap** and **Flask**
