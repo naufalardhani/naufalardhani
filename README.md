@@ -2,10 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-purple)
 ![C](https://img.shields.io/badge/C-Beginner-yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-purple)
 ![Flask](https://img.shields.io/badge/Flask-Beginner-blue)
-![Django](https://img.shields.io/badge/Django-Intermediate-red)
 
 Web Security Analyst & Web Developer in Jakarta, Writing article about Hacking & Programming in [Geek Boiz](https://www.geekboiz.com/ "Geek Boiz").
 
