@@ -1,8 +1,8 @@
 <h1 align="center">
-  <span>ardhani.tech</span>
+  <span>naufal ardhani</span>
 </h1>
 
-Security Engineer & React Developer
+<p align='center'>Web Security Analyst & React Developer</p>
 
 <br>
 
