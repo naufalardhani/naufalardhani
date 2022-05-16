@@ -1,17 +1,15 @@
 <h1 align="center">
-  <b>jaden</b>
+  <span>ardhani.tech</span>
 </h1>
 
-Heya! I'm Jaden, a student currently living in Java, Indonesian. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Web_developer">WEB DEVELOPMENT</a>, 
-and learning programming through small projects  on the side.
+Security Engineer & React Developer
 
 <br>
 
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-TAILWIND-d1a01f?style=for-the-badge&logo=tailwindcss&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
@@ -34,7 +32,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/user/0ug5xzc6d4z4otfwz0uyt85eb">
+  <a href="https://open.spotify.com/user/31p53scsvvmjt7cmlc4u4qdwya7i">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
@@ -52,8 +50,8 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://kdandy.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kdandy&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdandy&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalardhani&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
