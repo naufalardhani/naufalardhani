@@ -15,20 +15,10 @@ Security Engineer & React Developer
 </p>
 
 ```python
-class jaden():
-    
-  def __init__(self):
-    self.name = "DANDY FAISHAL FAHMI";
-    self.username = "kdandy";
-    self.location = "Java, Indonesian";
-    self.twitter = "@ach4zia";
-    self.web = "kdandy.com";
-  
-  def __str__(self):
-    return self.name
+import requests
 
-if __name__ == '__main__':
-    me = jaden()
+r = requests.get('https://github.com/naufalardhani')
+print(r.status_code)
 ```
 
 <div align="center">
