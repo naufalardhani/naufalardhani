@@ -1,6 +1,10 @@
-<h1 align="center">
-  <span>naufal ardhani<p>Web Security Analyst & React Developer</p></span>
-</h1>
+<div>
+  <h1>
+    naufal ardhani
+  </h1>
+  -
+  <p>Web Security Analyst & React Developer</p>
+</div>
 
 <br>
 
