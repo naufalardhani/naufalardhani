@@ -1,8 +1,6 @@
 <div>
-  <center>
-  <h1>naufal ardhani</h1>
+  <h1 align='center'>naufal ardhani</h1>
   <p>Web Security Analyst & React Developer</p>
-  </center>
 </div>
 
 <br>
