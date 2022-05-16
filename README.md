@@ -20,8 +20,8 @@ Web Security Analyst & Front End Developer in Jakarta, Writing article about Hac
 <br/>
 <p align="left">
   <a href="https://kdandy.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kdandy&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdandy&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=naufalardhani&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalardhani&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
