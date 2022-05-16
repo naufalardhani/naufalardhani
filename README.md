@@ -14,13 +14,6 @@ Security Engineer & React Developer
 </div>
 </p>
 
-```python
-import requests
-
-r = requests.get('https://github.com/naufalardhani')
-print(r.status_code)
-```
-
 <div align="center">
   <a href="https://open.spotify.com/user/31p53scsvvmjt7cmlc4u4qdwya7i">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
