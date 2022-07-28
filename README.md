@@ -1,6 +1,8 @@
 <div>
   <h1 align='center'>naufal ardhani</h1>
-  <p>Cybersecurity Enthusiast | CTF Player | Red Team</p>
+  <center>
+    <p>Cybersecurity Enthusiast | CTF Player | Red Team</p>
+  </center>
 </div>
 
 <br>
