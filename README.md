@@ -1,6 +1,6 @@
 <div>
   <h1 align='center'>naufal ardhani</h1>
-  <p>Web Security Analyst & React Developer</p>
+  <p>Cybersecurity Enthusiast | CTF Player | Red Team</p>
 </div>
 
 <br>
