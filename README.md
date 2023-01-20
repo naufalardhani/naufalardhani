@@ -1,6 +1,6 @@
 <div>
-  <h1 align='center'>naufal ardhani</h1>
-  <p algin=center>Cybersecurity Enthusiast | CTF Player | Red Team</p>
+  <h1 align='center'>ardhani</h1>
+  <p algin=center><null?></p>
 </div>
 
 <br>
