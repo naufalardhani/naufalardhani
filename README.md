@@ -7,7 +7,7 @@
 
 <p>
 <div align="center">
-  <img src="[https://img.shields.io/static/v1?label=X&message=Penetration%20Tester&color=red](https://img.shields.io/static/v1?label=&message=Penetration%20Tester&color=red&logo=kalilinux)">
+  <img src="https://img.shields.io/static/v1?label=&message=Penetration%20Tester&color=red&logo=kalilinux">
 </div>
 </p>
 
