@@ -12,5 +12,5 @@
 
 <br>
 
-<a>Passionate about offensive security and ready to develop into a good hacker.</a>
+<a>Passionate about offensive security and ready to develop into a good hacker.🤞🏻❤️</a>
 </p>
