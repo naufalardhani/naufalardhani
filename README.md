@@ -9,5 +9,8 @@
   <img src="https://img.shields.io/static/v1?label=&message=Penetration%20Tester&color=8e44ad&logo=kalilinux">
   <img src="https://img.shields.io/static/v1?label=&message=CTF%20Player&color=blue&logo=macos">
 </div>
+
+<br>
+
 <a>Passionate about offensive security and ready to develop into a good hacker.</a>
 </p>
