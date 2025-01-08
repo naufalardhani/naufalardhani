@@ -3,8 +3,6 @@
   <p algin=center><null?></p>
 </div>
 
-<br>
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Offensive%20Security&color=c0392b&logo=zap">
